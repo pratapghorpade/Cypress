@@ -1,0 +1,13 @@
+{
+    "customerId": "", 
+    "panNumber":  "",  
+    "docType": [
+{
+    "type": "dematProof",
+    "dematProvider": "CDSL",
+    "clientId": "1208160064116290",
+    "dematDocName": "demat.png",
+    "dematDocFile": ""
+}
+               ]
+}

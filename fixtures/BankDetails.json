@@ -1,0 +1,22 @@
+{
+    "customerId": "", 
+    "panNumber":  "",  
+    "docType": [
+     
+      {
+        "type": "bankAcProof",
+        "bankAcNumber": "115301000671",
+        "bankName": "ICICI",
+        "branchName": "Satara",
+        "bankAcIfsc": "ICIC0001111",
+        "bankAcSubType": "penny_drop",
+        "bankDocTypeForPennyDrop": "cancelled_cheque",
+        "bankAcDocName": "cancle_check.png",
+        "bankAcDocFile": "",
+        "bankAcDocFilePwd": "@123456", 
+        "bankSupportDocName": "banksupportdoc.pdf",
+        "bankSupportDocFile": "",
+        "bankSupportDocFilePwd": "*1121212"
+      }
+               ]
+}

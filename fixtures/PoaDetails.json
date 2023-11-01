@@ -1,0 +1,19 @@
+{
+    "customerId": "", 
+    "panNumber":  "",  
+    "docType": [
+      {
+          "type": "poa",
+          "poaFrontDocName": "Aadhaar_F.jpg",
+          "poaFrontDocFile":  "", 
+          "poaBackDocName":  "Aadhaar_B.jpg",
+          "poaBackDocFile":   "",  
+          "poaSubType": "aadhar",
+          "poaIdNumber": "898776351638",
+          "gender": "male",
+          "address":"SATARA",
+          "pinCode":"415004"
+  
+      }
+    ]
+  }

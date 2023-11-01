@@ -1,0 +1,13 @@
+{
+    "customerId": "",
+    "panNumber": "",
+    "docType": [
+  {
+      "type":"poi",
+      "poiDocName":"pan.jpg",
+      "poiDocFile":"",
+      "fatherName":"Ravindra Ghorpade",
+      "dob":  "17-Oct-1992"
+ }
+           ]
+}

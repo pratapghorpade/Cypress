@@ -1,0 +1,7 @@
+{
+    "AddClient": "rest/v0/kyc/add-client",
+    "Status":  "rest/v0/kyc/kyc-status",
+    "CheckOutkUrl": "rest/v0/kyc/generate-checkout-url",
+    "AddDoc": "rest/v0/kyc/add-kyc"
+
+}

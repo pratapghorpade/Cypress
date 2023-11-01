@@ -1,0 +1,23 @@
+{
+    "customerId": "", 
+    "panNumber":  "",  
+    "docType": [
+      {
+        "type": "photo",
+        "passportPhotoName": "photo.jpg",
+        "passportPhotoFile": ""
+      },
+      {
+        "type": "otherDetails",
+        "income": 5,
+        "marriageStatus": "single",
+        "profession": "private_sector",
+        "pep": true
+      },
+      {
+        "type": "signature",
+        "signatureDocName": "sign.jpg",
+        "signatureDocFile": ""
+      }
+    ]
+}

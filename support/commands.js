@@ -1,6 +1,6 @@
 
 import Auth_Tokan from '/home/dharapajwani/Cypress/cypress/Payload/Auth_Tokan.json'
-import PathParam from '/home/dharapajwani/Cypress/cypress/Payload/PathParam.json'
+import PathParam from '/home/dharapajwani/Cypress/cypress/Payload/Auth_Tokan.json'
 
 
 
